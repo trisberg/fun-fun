@@ -1,0 +1,7 @@
+applications:
+- framework: spring
+  guid: 60b9ab05-0c9a-4def-a6de-8463aa7e5718
+  language: java
+  name: db-fun
+  service:
+  - name: mysql

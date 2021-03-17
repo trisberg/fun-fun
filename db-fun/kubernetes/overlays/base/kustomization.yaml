@@ -1,0 +1,5 @@
+namePrefix: db-fun-
+commonLabels:
+  app.kubernetes.io/name: db-fun
+resources:
+  - github.com/kustomizations/spring-boot-web
